@@ -1,0 +1,13 @@
+*  lstm_translator
+a bidirectional translator
+* Introduction
+I am going to build an bidirectional lstm translator in this repo. (lua)
+* Model
+I will put several different rnn unit here
+** lstm
+* Some useful resources
+| Name                     | NOTE                                       | url                                                          |
+|--------------------------+--------------------------------------------+--------------------------------------------------------------|
+| RNNs are Turing-Complete | A paper proves that RNN is Turing-Complete | http://binds.cs.umass.edu/papers/1995_Siegelmann_Science.pdf |
+|                          |                                            |                                                              |
+
